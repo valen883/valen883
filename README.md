@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there I´m Valentina 👋
 
+
+![personal branding](https://github.com/valen883/valen883/assets/77710204/51b9e765-3f4b-4fa8-9e44-7d672449bc4c)
 <!--
 **valen883/valen883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
