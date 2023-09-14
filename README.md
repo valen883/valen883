@@ -2,8 +2,6 @@
 
 ![personal branding](https://github.com/valen883/valen883/assets/77710204/49ef5bf0-a633-499c-a54b-ad685dcbefa6)
 
-<!--
-**valen883/valen883** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 ## Acerca de  mi  ✨🙎🏼‍♀️ ✨
@@ -14,16 +12,10 @@ Desde el momento en que escribí mis primeras líneas de código, supe que habí
 
 ## Mis objetivos 🌟
 
-Mi compromiso con el crecimiento profesional es inquebrantable. Estoy comprometida a absorber todo el conocimiento que la industria tiene para ofrecer, manteniéndome al día con las últimas tendencias y tecnologías en el mundo del desarrollo front-end. Creo en la importancia de la capacitación continua para ofrecer siempre soluciones innovadoras y de alta calidad.
-
-No solo soy una apasionada del código, sino que también tengo una habilidad natural para comunicarme de manera efectiva. Mi enfoque en la comunicación asertiva me permite no solo expresar mis ideas de manera clara, sino también contribuir al fortalecimiento de equipos de trabajo sólidos. Creo que el intercambio de ideas y la colaboración son esenciales para llevar proyectos a un nivel superior.
-
 Mi objetivo es convertirme en una desarrolladora ejemplar. Estoy comprometida con aportar lo mejor de mí en cada proyecto y mantener altos estándares de calidad en todo lo que hago. Mi determinación y dedicación me impulsan a superar obstáculos y lograr resultados excepcionales.
 
+No solo soy una apasionada del código, sino que también tengo una habilidad natural para comunicarme de manera efectiva. Creo que el intercambio de ideas y la colaboración son esenciales para llevar proyectos a un nivel superior.
 
-## Buscando nuevos horizontes 🌄
-
-Estoy emocionada por la posibilidad de formar parte de un equipo innovador y dinámico, donde pueda contribuir con mis habilidades técnicas y mi pasión por la excelencia en el desarrollo front-end. ¡Estoy lista para enfrentar nuevos retos y llevar las experiencias web a nuevos horizontes!
 
 ## Contactame! 📳
 
