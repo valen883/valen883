@@ -1,9 +1,5 @@
 # Hola! Soy Valentina 👋
 
-![personal branding](https://github.com/valen883/valen883/assets/77710204/49ef5bf0-a633-499c-a54b-ad685dcbefa6)
-
-
-
 ## Acerca de  mi  ✨🙎🏼‍♀️ ✨
 
 Soy una apasionada desarrolladora front-end especializada en JavaScript, HTML y CSS. Mi determinación por aprender y crecer en esta industria es inquebrantable. Me gusta construir los futuros diseños que caracterizarán una página de forma sencilla pero concisa a través del código.
